@@ -1,0 +1,7 @@
+node_modules
+/service-one/node_modules
+/service-two/node_modules
+
+.env
+/service-one/.env
+/service-two/.env
